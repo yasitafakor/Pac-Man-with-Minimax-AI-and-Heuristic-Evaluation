@@ -211,4 +211,4 @@ The `run_game` method is the main loop for executing the Pac-Man game, handling 
 
 This method drives the game by continuously updating Pac-Man's and the ghosts' positions, checking for win/loss conditions, and providing visual feedback through the console.
 
-
+![sample](https://github.com/user-attachments/assets/b92a1c3c-a356-4f2b-ad87-5461fdf96cfb)
