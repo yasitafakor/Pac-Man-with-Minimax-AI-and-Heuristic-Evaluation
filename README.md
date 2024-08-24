@@ -1,4 +1,4 @@
-**Pac-Man with Minimax AI and Heuristic Evaluation**
+# **Pac-Man with Minimax AI and Heuristic Evaluation**
 
 ### Overview
 
